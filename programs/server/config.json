@@ -1,0 +1,8 @@
+{
+  "meteorRelease": "METEOR@1.6.1.1",
+  "appId": "j1pqaxqzamzs.worwtlr3tcia",
+  "clientPaths": {
+    "web.browser": "../web.browser/program.json",
+    "web.cordova": "../web.cordova/program.json"
+  }
+}
